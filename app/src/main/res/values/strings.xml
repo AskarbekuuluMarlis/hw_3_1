@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hw_3_1</string>
+    <string name="email">Введите ваш email</string>
+    <string name="theme">theme</string>
+    <string name="massege">Введите сообщение</string>
+</resources>
